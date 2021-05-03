@@ -1,4 +1,4 @@
-# simpsons 1/3 Algorithm 
+# Simpsons 1/3 Algorithm 
 
 This Algorithm takes in data in this case a lower and upper bound as well as the function or data set that is going to be evaluated.
 then is put through the simpsons 1/3 process, in short three values are are plugged into the Simpsons 1/3 formula and a value is outputed. 
